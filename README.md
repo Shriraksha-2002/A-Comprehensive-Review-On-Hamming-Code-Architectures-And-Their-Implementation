@@ -153,12 +153,6 @@ Hamming code continues to be a fundamental and effective error correction techni
 - Optimization for nano-scale technologies.
 - Enhanced power-delay trade-off techniques.
 
-------------------------------------------------------------
 
-## PROJECT STRUCTURE:
 
-Project
- ┣ README.md
- ┗ Project_Document.pdf
 
-------------------------------------------------------------
